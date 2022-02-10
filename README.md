@@ -1,2 +1,2 @@
 # python-playground
-Programs in python
+This repository contains different programs in python.
