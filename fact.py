@@ -5,4 +5,5 @@ def factorial(number):
             answer = answer * i
         print(answer)
         return(answer)
+    print("Cannot compute factorial of a negative number")
     return(None)
